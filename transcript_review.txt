@@ -1,0 +1,26 @@
+===== ORIGINAL TRANSCRIPT =====
+
+0.00s - 12.06s: You will lose your job to AI unless you do this now.
+12.06s - 14.76s: You will lose your job to AI unless you do this now.
+14.76s - 25.20s: You are going to lose your job to AI unless you do this now.
+25.20s - 29.20s: friend who needs to take this advice. Share this with a friend who needs to take this
+29.20s - 32.20s: advice.
+30.00s - 57.00s: subscribe to learn how to do this and to hear the latest news on AI.
+60.00s - 72.00s: The economy is on the brink of massive change and the economy is on the brink of message change and
+75.00s - 81.00s: subscribe to learn how to do this and to follow the latest news on AI.
+81.00s - 88.00s: The economy is on the brink of massive change and
+
+===== SEGMENTS REMOVED (Repetitions & Fillers) =====
+
+[Repetition] 0.00s - 12.06s: You will lose your job to AI unless you do this now.
+
+===== CLEANED TRANSCRIPT (Final Video) =====
+
+12.06s - 14.76s: You will lose your job to AI unless you do this now.
+14.76s - 25.20s: You are going to lose your job to AI unless you do this now.
+25.20s - 29.20s: friend who needs to take this advice. Share this with a friend who needs to take this
+29.20s - 32.20s: advice.
+30.00s - 57.00s: subscribe to learn how to do this and to hear the latest news on AI.
+60.00s - 72.00s: The economy is on the brink of massive change and the economy is on the brink of message change and
+75.00s - 81.00s: subscribe to learn how to do this and to follow the latest news on AI.
+81.00s - 88.00s: The economy is on the brink of massive change and
